@@ -83,28 +83,4 @@ python scripts/analyze_results.py
 - Optimized sequence length (200bp) for realistic reconstruction challenge
 - Robinson-Foulds distances calculated using DendroPy's `symmetric_difference()` function
 
-## Dependencies
 
-See `requirements.txt` for complete Python package requirements. Main dependencies:
-- `dendropy` - Phylogenetic computing library
-- `matplotlib` - Plotting and visualization
-- `numpy` - Numerical computing
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```
-[Your Name]. (2024). Phylogenetic Simulation Experiment: FastTree Accuracy Assessment. 
-GitHub repository: https://github.com/yourusername/phylogenetic-simulation
-```
-
-## License
-
-This project is available under the MIT License. See LICENSE file for details.
-
-## Contact
-
-[Your Name] - [your.email@example.com]
-
-Project Link: [https://github.com/yourusername/phylogenetic-simulation](https://github.com/yourusername/phylogenetic-simulation) 
