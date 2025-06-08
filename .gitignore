@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large binary files
+*.exe
+bin/
+
+# Temporary files
+*.tmp
+*.log
+LOG.txt
+
+# Large result files (optional - you might want to include some)
+indelible/trees/rep_*/output*.fas
+indelible/trees/rep_*/output*_TRUE.phy
+indelible/test_rep/
+
+# Keep important results but exclude large intermediate files
+!results/
+!indelible/trees/*.tree 

@@ -1,0 +1,14 @@
+[TYPE] NUCLEOTIDE 1
+
+[SETTINGS]
+    [output] PHYLIP
+    [branchlengths] BRANCHLENGTHS
+
+[MODEL] model0
+    [submodel] JC69
+    [rates] 1
+
+[TREE] tree1
+    random 10 birthdeath 0.5 0.2 1.0
+
+[EVOLVE] tree1 model0 1 output1

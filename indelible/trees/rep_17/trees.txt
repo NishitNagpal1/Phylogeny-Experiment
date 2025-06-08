@@ -1,0 +1,7 @@
+Tree file : INDELible V1.03 (best viewed cut and paste in e.g. excel)
+
+N.B. Simulation blocks with no random trees will have their trees printed for the first replicate only.
+
+FILE	TREE	NTAXA	REP	PART	LENGTH	DEPTH	MAX PAIRWISE DISTANCE	TREE STRING
+
+output17	tree0	10	1	1	4.07463	0.83424	1.66848	(7:0.83424,(4:0.698101,(10:0.281822,((8:0.0694949,(2:0.0502829,(9:0.0247315,5:0.0247315):0.0255514):0.019212):0.0574741,3:0.126969):0.154852):0.41628):0.136138,(1:0.320506,6:0.320506):0.513733);

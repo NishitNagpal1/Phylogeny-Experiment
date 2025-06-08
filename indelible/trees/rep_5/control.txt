@@ -1,0 +1,12 @@
+[TYPE] NUCLEOTIDE 1
+
+[MODEL] model0
+    [submodel] JC
+
+[TREE] tree0 
+    [unrooted] 10
+    [seed] 1615
+
+[PARTITIONS] part0 [tree0 model0 200]
+
+[EVOLVE] part0 1 output5
